@@ -1,5 +1,9 @@
 # Road
 
+[TOC]
+
+
+
 
 
 ## 计算机基础
@@ -24,6 +28,10 @@
 
 
 
+## JVM
+
+
+
 ## 设计模式
 
 
@@ -38,21 +46,63 @@
 
 ### 后端
 
-### MySQL
+#### MySQL
 
-### Spring
+#### Spring
 
-### SpringBoot
+#### SpringBoot
 
-### Redis
+#### Redis
 
 
 
 ### Android
 
-### 四大组件
+#### 四大组件
+
+##### Activity
+
+##### Service
+
+##### Broadcast
+
+##### ContentProvider
+
+
 
 ### IPC
+
+
+
+### 框架
+
+#### RxJava
+
+#### Retrofit
+
+
+
+### View事件体系&原理
+
+#### 事件体系
+
+#### 原理
+
+
+
+### 动画
+
+### 消息机制
+
+### JNI和NDK开发
+
+
+
+
+
+
+
+
 
 
 
@@ -72,6 +122,8 @@
 
 
 
+
+
 ## 图书
 
 
@@ -83,6 +135,4 @@
 
 
 
-
-### 
 
