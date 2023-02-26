@@ -4,7 +4,16 @@
 
 # 0 前言
 
- 
+ 本仓库用来记录计算机基础相关知识总结、Java学习笔记整理以及其他知识整理。
+
+
+
+# 目录
+
+1. [计算机基础](https://github.com/baijiangLai/630-Java#1-计算机基础)
+2. [Java相关](https://github.com/baijiangLai/630-Java#2-java)
+3. [版本管理](https://github.com/baijiangLai/630-Java#3-版本管理)
+4. [编译工具](https://github.com/baijiangLai/630-Java#4-编译工具)
 
 
 
@@ -57,7 +66,7 @@
 
 # 参考
 
-[Gityuan博客 | 袁辉辉的技术博客](http://gityuan.com/)
+
 
 
 
