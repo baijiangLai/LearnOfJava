@@ -20,19 +20,13 @@
 
 
 
-## JavaSE
+## Java
 
+- JavaSE
 
-
-## 多线程与并发
-
-
-
-## JVM
-
-
-
-## 设计模式
+- 多线程与并发
+- JVM
+- 设计模式
 
 
 
@@ -46,55 +40,47 @@
 
 ### 后端
 
-#### MySQL
+- MySQL
 
-#### Spring
+- Spring
 
-#### SpringBoot
+- SpringBoot
 
-#### Redis
+- Redis
 
 
 
 ### Android
 
-#### 四大组件
-
-##### Activity
-
-##### Service
-
-##### Broadcast
-
-##### ContentProvider
+- 四大组件
+  - Activity
+  - Service
+  - Broadcast
+  - ContentProvider
 
 
 
-### IPC
+- IPC
 
 
 
-### 框架
-
-#### RxJava
-
-#### Retrofit
+- 框架
+  - RxJava
+  - Retrofit
 
 
 
-### View事件体系&原理
-
-#### 事件体系
-
-#### 原理
+- View事件体系&原理
+  - 事件体系
+  - 原理
 
 
 
-### 动画
+- 动画
 
-### 消息机制
+- 消息机制
 
-### JNI和NDK开发
+- JNI和NDK开发
 
 
 
@@ -125,6 +111,14 @@
 
 
 ## 图书
+
+
+
+
+
+# 参考
+
+[袁辉辉]([Gityuan博客 | 袁辉辉的技术博客](http://gityuan.com/))
 
 
 
