@@ -1,108 +1,47 @@
 # Road
 
-[TOC]
 
 
+# 0 前言
 
+ 
 
 
-## 计算机基础
 
-### 数据结构与算法
+## 1 计算机基础
 
-### 操作系统
+- 1.1、数据结构与算法
 
-### 计算机网络
+- 1.2、操作系统
 
-### 计算机组成原理
+- 1.3、计算机网络
 
+- 1.4、计算机组成原理
 
 
 
 
-## Java
 
-- JavaSE
+## 2 Java
 
-- 多线程与并发
-- JVM
-- 设计模式
+- 2.1、JavaSE
 
+- 2.2、多线程与并发
+- 2.3、JVM
+- 2.4、设计模式
 
 
-## 敏捷开发
 
+## 3 版本管理
 
+- 3.1、Git
 
 
 
-## 应用方向
+## 4 编译工具
 
-### 后端
-
-- MySQL
-
-- Spring
-
-- SpringBoot
-
-- Redis
-
-
-
-### Android
-
-- 四大组件
-  - Activity
-  - Service
-  - Broadcast
-  - ContentProvider
-
-
-
-- IPC
-
-
-
-- 框架
-  - RxJava
-  - Retrofit
-
-
-
-- View事件体系&原理
-  - 事件体系
-  - 原理
-
-
-
-- 动画
-
-- 消息机制
-
-- JNI和NDK开发
-
-
-
-
-
-
-
-
-
-
-
-## 版本管理
-
-### Git
-
-
-
-## 编译工具
-
-### Maven
-
-### Gradle
+- 4.1、Maven
+- 4.2、Gradle
 
 
 
@@ -112,7 +51,7 @@
 
 ## 图书
 
-
+[BOOKS](https://github.com/baijiangLai/Books)
 
 
 
