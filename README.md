@@ -10,10 +10,10 @@
 
 # 目录
 
-1. [计算机基础](https://github.com/baijiangLai/630-Java#1-计算机基础)
-2. [Java相关](https://github.com/baijiangLai/630-Java#2-java)
-3. [版本管理](https://github.com/baijiangLai/630-Java#3-版本管理)
-4. [编译工具](https://github.com/baijiangLai/630-Java#4-编译工具)
+1. 计算机基础
+2. Java相关
+3. 版本管理
+4. 编译工具
 
 
 
@@ -37,7 +37,7 @@
 
 - 2.2、多线程与并发
 - 2.3、JVM
-- 2.4、设计模式
+- 2.4、[设计模式](https://github.com/baijiangLai/DesignPattern)
 
 
 
