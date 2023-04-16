@@ -19,7 +19,7 @@
 
 ## 1 计算机基础
 
-- 1.1、数据结构与算法
+- 1.1、[数据结构与算法](https://github.com/baijiangLai/DataStructureAndAlgorithm)
 
 - 1.2、操作系统
 
@@ -36,14 +36,14 @@
 - 2.1、JavaSE
 
 - 2.2、多线程与并发
-- 2.3、JVM
+- 2.3、[JVM](https://github.com/baijiangLai/LearnOfJVM)
 - 2.4、[设计模式](https://github.com/baijiangLai/DesignPattern)
 
 
 
 ## 3 版本管理
 
-- 3.1、Git
+- 3.1、[Git](https://github.com/baijiangLai/LearnOfGit)
 
 
 
