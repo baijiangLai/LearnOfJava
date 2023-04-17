@@ -12,6 +12,7 @@
 
 1. 计算机基础
 2. Java相关
+3. 数据库
 3. 版本管理
 4. 编译工具
 
@@ -41,16 +42,20 @@
 
 
 
-## 3 版本管理
 
-- 3.1、[Git](https://github.com/baijiangLai/LearnOfGit)
+## 3 数据库
+- 3.1 [MySQL](https://github.com/baijiangLai/LearnOfMySQL)
+
+## 4 版本管理
+
+- 4.1、[Git](https://github.com/baijiangLai/LearnOfGit)
 
 
 
-## 4 编译工具
+## 5 编译工具
 
-- 4.1、Maven
-- 4.2、Gradle
+- 5.1、Maven
+- 5.2、Gradle
 
 
 
